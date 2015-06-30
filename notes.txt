@@ -1,0 +1,35 @@
+Recent studies have shown that while people think they want more options to make a choice, the process of choosing causes stress due to factors such as time spent on deciding and FOMO on the options not chosen. Take lunch for example. When someone says "what do you want for lunch?" you consider your options, consider what you think the other person wants, think about what fits your budget, what you had yesterday and on and on. When a possible decision is made you weigh it against those factors and end up changing you mind. That process not only takes time out of your workday but also takes your mind out of concentrated flow. But if that person had told you "We're going to Chocolate factory at 12," then your only choice is yes or no, and while a 'no' may put you back where you started, a 'yes' has saved you a lot of time.
+
+But what if you don't work with a decisive lunchmate who tells you where and when lunch is? Imagine a lunchbot that takes your preferences in cuisine, budget, and frequency into account, weighing those parameters with those of everyone in the group and decides for you. At 11:00 you get a message "We're ordering a pepperoni pizza from Toppers at 12. Click yes if you're in." There will be no more notices until 11:00 the next day.  Just like the lunch lady in grade school. She drops it on your plate and you eat it or not, but either way you get to move on with your day.
+
+
+As a user I want:
+A-to get a notice as to what I'm going to eat
+B-to be able to accept or reject the choice
+C-have my pref in cuisine factor into her decision
+D-have my pref in restaurant factor into her decision
+E-have my budget factor into her decision
+F-have people I hang out with factor into her decision
+G-have LL figure it out, even if I don't give her enough info
+
+to achieve that the developer needs to:
+create and populate a database with
+	-restaurants
+	-users
+	-user prefs
+	-groups
+	-history
+create an algorithm to make a choice
+update database based on choices and user responses
+
+
+ideally there would be
+	-a way for user to enter prefs
+	-a way to get restaurants based on location
+	-yelp integration
+
+required is a method of notification
+-toastr?
+-sweetalert?
+-email?
+-text?
