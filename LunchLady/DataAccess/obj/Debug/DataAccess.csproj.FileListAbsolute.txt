@@ -23,8 +23,6 @@ C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\DataAccess\bin\Debug\Sys
 C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\DataAccess\bin\Debug\System.Web.Http.WebHost.dll
 C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\DataAccess\bin\Debug\System.Net.Http.Formatting.dll
 C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\DataAccess\bin\Debug\Newtonsoft.Json.dll
-C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\DataAccess\bin\Debug\EntityFramework.xml
-C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\DataAccess\bin\Debug\System.Web.Http.xml
 C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\DataAccess\bin\Debug\System.Web.Http.SelfHost.xml
 C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\DataAccess\bin\Debug\System.Web.Http.WebHost.xml

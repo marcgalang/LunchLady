@@ -108,3 +108,5 @@ C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\LunchLady\bin\Microsoft.
 C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\LunchLady\obj\Debug\LunchLady.csprojResolveAssemblyReference.cache
 C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\LunchLady\obj\Debug\LunchLady.dll
 C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\LunchLady\obj\Debug\LunchLady.pdb
+C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\LunchLady\bin\DataAccess.dll
+C:\Users\mgalang_h\Dropbox\Projects\LunchLady\LunchLady\LunchLady\bin\DataAccess.pdb
