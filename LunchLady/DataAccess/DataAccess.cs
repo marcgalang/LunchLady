@@ -5,11 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 
+
 namespace DataAccess
 {
     public class DataAccess
     {
-        static string strConn = "Server=SQL;Database=lunchlady_h;User Id=Hydrogen;Password=Codeflange4life1;";
+        //static string strConn = "Server=SQL;Database=lunchlady_h;User Id=Hydrogen;Password=Codeflange4life1;";
+        static string strConn = "Server=MARCD266\\SQLEXPRESS ;Database=lunchlady_h;Trusted_Connection=True";
         private static SqlConnection Connect()
         {
             try

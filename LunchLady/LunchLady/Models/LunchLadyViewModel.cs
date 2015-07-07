@@ -15,6 +15,7 @@ namespace LunchLady.Models
         public string first_name { get; set; }
         public string last_name { get; set; }
         public int budget { get; set; }
+        public int average_restaurant_rating { get; set; }
         public List<group> groups { get; set; }
         public List<restaurant> restaurant { get; set; }
     }
